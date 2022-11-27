@@ -1,0 +1,16 @@
+[
+    {
+        "tokens": ["imgiu@gmail.com", "Giulia", "Casucci", "pao96@outlook.com", "3343636325", "Smith", "staffmarchese@", "3456278924"],
+        "labels": ["email", "name", "name", "email", "number", "name", "none", "number"]
+    },
+    
+    {
+        "tokens": ["martinoyahoo.com", "bernardo2@yahoo.com", "Ruggiero", "ruggierolibero.it", "3321028838", "lucal@libero.it"],
+        "labels": ["none", "email", "name", "none", "number", "email"]
+    },
+    
+    {
+        "tokens": ["Pasquale", "neri50@gmail.com", "Liccardi", "ferrara.giacobbeyahoo.com", "coppola.enrico@yahoo.com", "3356789012", "3291872772", "Luisa", "Sara", "vvilla@yahoo.com", "gmail@.it", "elebi.it", "3216789334a", "ivonne.barbieri@yahoo.com", "paocas@gmail.com"],
+        "labels": ["name", "email", "name", "none", "email", "number", "number", "number", "name", "name", "none", "none", "number", "email", "email"]
+    }
+]
